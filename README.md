@@ -4,16 +4,14 @@
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
   
 ## My GitHub Stats 📊
+ 
+  
+<a href="https://github.com/Davidohiv7/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
+</a>
 
-<div style="display: flex; flex-direction: column;">
+<a href="https://github.com/Davidohiv7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true" />
+</a>
   
-  <a href="https://github.com/Davidohiv7/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
-  </a>
-  
-  <a href="https://github.com/Davidohiv7/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true" />
-  </a>
-  
-</div>
 
