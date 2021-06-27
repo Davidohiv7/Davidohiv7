@@ -11,7 +11,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
   </a>
 </div>
 
-<div></div>
+<div> <p></p> </div>
 
 <div align=center>  
   <a href="https://github.com/Davidohiv7/github-readme-stats">
