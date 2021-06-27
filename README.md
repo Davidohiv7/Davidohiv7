@@ -1,4 +1,3 @@
-![imagen](https://user-images.githubusercontent.com/74874506/123534109-4004b200-d6e0-11eb-973c-e2cfa2308c75.png)
 
 # Hi, I’m David Vivas 👋  
   
