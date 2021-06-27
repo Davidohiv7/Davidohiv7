@@ -3,3 +3,5 @@ Colombian engineer, environmental manager and starting my journey on Henry to be
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=Davidohiv7)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7)](https://github.com/anuraghazra/github-readme-stats)
+
