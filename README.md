@@ -7,6 +7,25 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
 - davidbu7@hotmail.com
 
+:::: {style="display: flex;"}
+
+::: {}
+Here is the **first** Div.
+
+```{r}
+str(iris)
+```
+:::
+
+::: {}
+And this block will be put on the right:
+
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::
 
 
 ## My Projects :construction_worker:
