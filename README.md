@@ -7,14 +7,6 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
 - davidbu7@hotmail.com
 
----
-output: html_document
----
-
-```{r attr.source="style='display:inline-block;'", collapse=TRUE}
-1:10  # a sequence from 1 to 10
-10:1  # in the reverse order
-```
 
 
 ## My Projects :construction_worker:
