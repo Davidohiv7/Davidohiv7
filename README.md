@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Davidohiv7
+
+# Hi, I’m David Vivas 👋<h1>   
 Colombian engineer, environmental manager and starting my journey on Henry to become a Full Stack Developer
 
 <Div styles={display=flex}>
@@ -9,5 +10,5 @@ Colombian engineer, environmental manager and starting my journey on Henry to be
   
 </Div>
 
-# This is an <h1> tag
+# This is an <h1> 
 
