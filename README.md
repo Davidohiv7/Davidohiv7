@@ -2,16 +2,12 @@
 # Hi, I’m David Vivas 👋<h1>   
   
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
-
-  <div style="text-align:center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7)](https://github.com/anuraghazra/github-readme-stats) 
-  </div>
-
-  ![David's github stats](https://github-readme-stats.vercel.app/api?username=Davidohiv7) 
   
-
-  
-
-
-# This is an <h1> 
+## My GitHub Stats 📊
+<a href="https://github.com/Davidohiv7/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Davidohiv7/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
+</a>
 
