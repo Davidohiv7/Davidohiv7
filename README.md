@@ -15,8 +15,8 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 ## My Projects :construction_worker:
 
 <div align=center style="width:20px;">  
-  <a style="border-radius:50%" href="http://157.245.138.252/">
-    <img width="400" src="https://i.postimg.cc/DzX9y3w5/Captura-de-Pantalla-2021-06-27-a-la-s-12-08-04-a-m.png" />
+  <a ref="http://157.245.138.252/">
+    <img width="400" src="https://i.postimg.cc/DzX9y3w5/Captura-de-Pantalla-2021-06-27-a-la-s-12-08-04-a-m.png" style="border-radius:50%"/>
   </a>
 </div>
   
