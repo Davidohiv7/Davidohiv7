@@ -5,7 +5,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
   
 ## My GitHub Stats 📊
 
-<div>
+<div style="display: flex; flex-direction=column">
   
   <a href="https://github.com/Davidohiv7/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
