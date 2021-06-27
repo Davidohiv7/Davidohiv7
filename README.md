@@ -3,11 +3,11 @@
   
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
 
-## My Projects 📊 http://157.245.138.252/
+## My Projects 📊 
 
 <div align=center>  
   <a href="http://157.245.138.252/">
-    <img align="center" src="https://ibb.co/vx74vBn" />
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adslzone.net%2Fcomo-se-hace%2Fphotoshop%2Fquitar-fondo-imagen%2F&psig=AOvVaw1rZyIzkEQ3hmM9TCShKLaU&ust=1624856959178000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDM7YCGt_ECFQAAAAAdAAAAABAD" />
   </a>
 </div>
   
