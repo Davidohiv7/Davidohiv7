@@ -3,29 +3,11 @@
   
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
 
+<div>
 **Contact me:**
 - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
 - davidbu7@hotmail.com
-
-:::: {style="display: flex;"}
-
-::: {}
-Here is the **first** Div.
-
-```{r}
-str(iris)
-```
-:::
-
-::: {}
-And this block will be put on the right:
-
-```{r}
-plot(iris[, -5])
-```
-:::
-
-::::
+</div>
 
 
 ## My Projects :construction_worker:
