@@ -4,7 +4,8 @@
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
 
 <div>
-  <h6>Contact me: </h6>
+<h6>Contact me: </h6>
+  
 - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
 - davidbu7@hotmail.com
 </div>
