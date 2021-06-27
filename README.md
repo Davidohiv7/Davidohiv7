@@ -1,6 +1,7 @@
 
 # Hi, I’m David Vivas 👋<h1>   
-Colombian engineer, environmental manager and starting my journey on Henry to become a Full Stack Developer
+  
+Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possibly way.
 
 <Div styles={display=flex}>
 
