@@ -6,15 +6,14 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 ## My GitHub Stats 📊
 
 <div>
-  <a href="https://github.com/Davidohiv7/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true" />
-  </a>
-</div>
-
-
-<div>
+  
   <a href="https://github.com/Davidohiv7/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
   </a>
+  
+  <a href="https://github.com/Davidohiv7/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true" />
+  </a>
+  
 </div>
 
