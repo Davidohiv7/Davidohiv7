@@ -1,7 +1,7 @@
 
 # Hi, I’m David Vivas 👋  
   
-Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
+Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
   
 <div style="display: inline;">
   <span>Contact me :mailbox: : </span>
