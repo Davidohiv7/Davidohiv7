@@ -3,7 +3,7 @@
   
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
 
-## My Projects 📊 
+## My Projects :construction_worker:
 
 <div align=center style="width:20px;">  
   <a href="http://157.245.138.252/">
