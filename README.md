@@ -5,14 +5,14 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 
 <div style="display: flex;">
   
-<div>
+<div style="display: inline;">
   <span>Contact me: </span>
 
   - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
   - davidbu7@hotmail.com
 </div>
   
-<div>
+<div style="display: inline;">
   <span>Contact me: </span>
 
   - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
