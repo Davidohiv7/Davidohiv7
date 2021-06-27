@@ -13,7 +13,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
     </a>
   </div>
   
-  <div align="center" style="margin-top: 10px;">
+  <div align="center">
     <a href="https://github.com/Davidohiv7/github-readme-stats">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Davidohiv7&count_private=true&show_icons=true" />
     </a>
