@@ -7,7 +7,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 
 <div align=center>  
   <a href="http://157.245.138.252/">
-    <img align="center" src="hhttps://ibb.co/vx74vBn" />
+    <img align="center" src="https://ibb.co/vx74vBn" />
   </a>
 </div>
   
