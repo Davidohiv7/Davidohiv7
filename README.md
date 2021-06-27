@@ -9,6 +9,12 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
   - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
   - davidbu7@hotmail.com
 </div>
+<div>
+  <span>Contact me: </span>
+
+  - [LinkedIn](https://www.linkedin.com/in/christiandavidvivas7/)
+  - davidbu7@hotmail.com
+</div>
 </div>
 
 ## My Projects :construction_worker:
