@@ -5,7 +5,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
   
 ## My GitHub Stats 📊
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%">
+<div style="display: flex; flex-direction: column;">
   
   <div>
     <a href="https://github.com/Davidohiv7/convoychat">
