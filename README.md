@@ -3,8 +3,6 @@
   
 Colombian full stack developer, petroleum engineer and environmental manager, passionate about learning new technologies and developing skills to solve real-life problems the best possible way.
 
-<div>
-  
   <div>
     <span>Contact me: </span>
 
@@ -12,7 +10,6 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
     - davidbu7@hotmail.com
   </div>
   
-</div>
 
 ## My Projects :construction_worker:
 
