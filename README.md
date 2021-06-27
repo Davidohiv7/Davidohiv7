@@ -7,7 +7,7 @@ Colombian full stack developer, petroleum engineer and environmental manager, pa
 
 <div style="display: flex; flex-direction: column;">
   
-  <div>
+  <div align="center"> 
     <a href="https://github.com/Davidohiv7/convoychat">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidohiv7" />
     </a>
