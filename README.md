@@ -27,7 +27,7 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
     </div>
   
 
-  <kbd> 
+
     <div style="display: inline;">
       <a href="http://143.244.150.246/">
         <h5> e-commerce </h5>
