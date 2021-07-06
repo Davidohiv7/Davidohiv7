@@ -36,7 +36,7 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
         </kbd> 
       </a>
    </div>
- </kbd> 
+
   
 </div>
   
