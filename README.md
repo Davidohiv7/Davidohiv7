@@ -20,7 +20,7 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
   <img width="400" src="https://i.postimg.cc/DzX9y3w5/Captura-de-Pantalla-2021-06-27-a-la-s-12-08-04-a-m.png"/>
   </a>
 
-  <a href="http://http://143.244.150.246/">
+  <a href="http://143.244.150.246/">
   <img width="400" src="https://live.staticflickr.com/65535/51294607224_1ffebff2c8_h.jpg"/>
   </a>
  
