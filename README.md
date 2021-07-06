@@ -14,7 +14,7 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
 
 ## My Projects :construction_worker:
 
-<div style="width:20px; display:flex; width:100%">
+<div style="width:20px; display:flex; width:100%; justify-content:center;">
   
   <div style="display:flex;flex-direction:column">
     <a href="http://157.245.138.252/">
