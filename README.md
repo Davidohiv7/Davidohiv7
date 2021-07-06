@@ -10,11 +10,8 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
   - davidbu7@hotmail.com
 </div>
   
-</div>
 
 ## My Projects :construction_worker:
-
-<div align=center> 
   
  
     <div style="display: inline;">
@@ -31,10 +28,9 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
         <h5> e-commerce </h5>
         <img width="400" height="230" src="https://live.staticflickr.com/65535/51294607224_1ffebff2c8_h.jpg"/>
       </a>
-   </div>
+    </div>
 
   
-</div>
   
 ## My GitHub Stats 📊
  
