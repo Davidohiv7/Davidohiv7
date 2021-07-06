@@ -25,7 +25,7 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
 
   <div style="display: inline;">
     <a href="http://143.244.150.246/">
-      <h5> Food project </h5>
+      <h5> e-commerce </h5>
       <img width="400" height="230" src="https://live.staticflickr.com/65535/51294607224_1ffebff2c8_h.jpg"/>
     </a>
  </div>
