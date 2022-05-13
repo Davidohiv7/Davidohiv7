@@ -44,5 +44,4 @@ Bilingual (ENG🇬🇧 - SPA🇪🇸) Full stack developer, petroleum engineer a
   </a>
 </div>
   
-<div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/gisella-duro/galen-videocall?embed=true"></div>
 
